@@ -36,7 +36,7 @@
     <string name="build_date">Azemz n usefsu</string>
     <string name="lineage_api_level">Aswir n KuroNekoDroid API</string>
     <string name="lineage_updates">Lqem n KuroNekoDroid</string>
-    <string name="lineage_version">Lqem n KuroNekoDroid</string>
+    <string name="kuroneko_version">Lqem n KuroNekoDroid</string>
     <string name="unknown">Arussin</string>
     <string name="trust_feature_name">Trust</string>
 </resources>

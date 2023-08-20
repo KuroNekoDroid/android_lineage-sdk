@@ -65,7 +65,7 @@
     <string name="build_date">Byggingardagsetning</string>
     <string name="lineage_api_level">KuroNekoDroid API-stig</string>
     <string name="lineage_updates">KuroNekoDroid uppfærslur</string>
-    <string name="lineage_version">KuroNekoDroid útgáfa</string>
+    <string name="kuroneko_version">KuroNekoDroid útgáfa</string>
     <string name="lineage_vendor_security_patch">Stig öryggisviðbóta framleiðanda</string>
     <string name="unknown">Óþekkt</string>
     <string name="app_killed_message">Forrit drepið</string>

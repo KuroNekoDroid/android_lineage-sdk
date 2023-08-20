@@ -65,7 +65,7 @@
     <string name="build_date">ビルド日時</string>
     <string name="lineage_api_level">KuroNekoDroid API レベル</string>
     <string name="lineage_updates">KuroNekoDroid アップデート</string>
-    <string name="lineage_version">KuroNekoDroid バージョン</string>
+    <string name="kuroneko_version">KuroNekoDroid バージョン</string>
     <string name="lineage_vendor_security_patch">ベンダーセキュリティパッチレベル</string>
     <string name="unknown">不明</string>
     <string name="app_killed_message">アプリを終了しました。</string>

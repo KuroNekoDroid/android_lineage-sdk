@@ -65,7 +65,7 @@
     <string name="build_date">วันที่สร้าง</string>
     <string name="lineage_api_level">ระดับ API ของ KuroNekoDroid</string>
     <string name="lineage_updates">อัพเดตระบบ KuroNekoDroid</string>
-    <string name="lineage_version">เวอร์ชั่น KuroNekoDroid</string>
+    <string name="kuroneko_version">เวอร์ชั่น KuroNekoDroid</string>
     <string name="lineage_vendor_security_patch">ระดับแพทช์ความปลอดภัย Vendor</string>
     <string name="unknown">ไม่รู้จัก</string>
     <string name="app_killed_message">แอปพลิเคชั่นถูกปิด</string>
