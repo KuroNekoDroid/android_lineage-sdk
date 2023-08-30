@@ -73,15 +73,5 @@
     <string name="megabitspersecond_short">Mb/d</string>
     <string name="kilobytespersecond_short">kB/d</string>
     <string name="megabytespersecond_short">MB/d</string>
-    <string name="trust_feature_name">Trust</string>
-    <string name="permlab_trustInterface">akses antarmuka Trust</string>
-    <string name="permdesc_trustInterface">Mengizinkan aplikasi menampilkan peringatan dan saran Trust</string>
-    <string name="trust_notification_channel">Lansiran Trust</string>
-    <string name="trust_notification_title_security">Trust \u2022 Keamanan sistem</string>
-    <string name="trust_notification_content_selinux">SELinux tidak wajib, keamanan Anda telah melemah</string>
-    <string name="trust_notification_content_keys">Bentukan ini ditandatangani dengan kunci publik</string>
-    <string name="trust_notification_title_onboarding">Mengetahui Trust</string>
-    <string name="trust_notification_content_onboarding">Kenali cara memastikan perangkat Anda aman</string>
-    <string name="trust_notification_action_manage">Kelola lansiran</string>
     <string name="charging_control_notification_cancel_once">Batal</string>
 </resources>

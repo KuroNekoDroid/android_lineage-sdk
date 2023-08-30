@@ -690,7 +690,6 @@ package lineageos.providers {
     method public static boolean putString(android.content.ContentResolver, java.lang.String, java.lang.String);
     field public static final android.net.Uri CONTENT_URI;
     field public static final java.lang.String SYS_PROP_LINEAGE_SETTING_VERSION = "sys.lineage_settings_secure_version";
-    field public static final java.lang.String TRUST_WARNINGS = "trust_warnings";
   }
 
   public static final class LineageSettings.System extends android.provider.Settings.NameValueTable {
@@ -802,29 +801,6 @@ package lineageos.providers {
     field public static final java.lang.String VOLUME_WAKE_SCREEN = "volume_wake_screen";
     field public static final java.lang.String ZEN_ALLOW_LIGHTS = "allow_lights";
     field public static final java.lang.String ZEN_PRIORITY_ALLOW_LIGHTS = "zen_priority_allow_lights";
-  }
-
-}
-
-package lineageos.trust {
-
-  public class TrustInterface {
-    method public static lineageos.trust.TrustInterface getInstance(android.content.Context);
-    method public int getLevelForFeature(int);
-    method public boolean postNotificationForFeature(int);
-    method public boolean removeNotificationForFeature(int);
-    field public static final int ERROR_UNDEFINED = -1; // 0xffffffff
-    field public static final int TRUST_FEATURE_ENCRYPTION = 4; // 0x4
-    field public static final int TRUST_FEATURE_KEYS = 5; // 0x5
-    field public static final int TRUST_FEATURE_LEVEL_BAD = 2; // 0x2
-    field public static final int TRUST_FEATURE_LEVEL_GOOD = 0; // 0x0
-    field public static final int TRUST_FEATURE_LEVEL_POOR = 1; // 0x1
-    field public static final int TRUST_FEATURE_PLATFORM_SECURITY_PATCH = 2; // 0x2
-    field public static final int TRUST_FEATURE_SELINUX = 0; // 0x0
-    field public static final int TRUST_FEATURE_VENDOR_SECURITY_PATCH = 3; // 0x3
-    field public static final java.lang.String TRUST_INTERFACE_PERMISSION = "lineageos.permission.TRUST_INTERFACE";
-    field public static final int TRUST_WARN_PUBLIC_KEY = 4; // 0x4
-    field public static final int TRUST_WARN_SELINUX = 1; // 0x1
   }
 
 }

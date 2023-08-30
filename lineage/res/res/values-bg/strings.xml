@@ -73,14 +73,4 @@
     <string name="megabitspersecond_short">Mб/с</string>
     <string name="kilobytespersecond_short">kБ/с</string>
     <string name="megabytespersecond_short">MБ/с</string>
-    <string name="trust_feature_name">Trust</string>
-    <string name="permlab_trustInterface">достъп до Trust интерфейс</string>
-    <string name="permdesc_trustInterface">Позволява на приложението да показка предложения и предупреждения</string>
-    <string name="trust_notification_channel">Trust предупреждения</string>
-    <string name="trust_notification_title_security">Trust \u2022 Система за сигурност</string>
-    <string name="trust_notification_content_selinux">SELinux не е приложена, вашата сигурност е отслабена</string>
-    <string name="trust_notification_content_keys">Тази компилация е подписана с публични ключове</string>
-    <string name="trust_notification_title_onboarding">Открийте Trust</string>
-    <string name="trust_notification_content_onboarding">Разберете как да направите вашето устройство е безопасно</string>
-    <string name="trust_notification_action_manage">Управление на предупрежденията</string>
 </resources>

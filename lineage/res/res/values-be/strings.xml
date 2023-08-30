@@ -52,8 +52,4 @@
     <string name="megabitspersecond_short">Мбіт/с</string>
     <string name="kilobytespersecond_short">кБ/с</string>
     <string name="megabytespersecond_short">МБ/с</string>
-    <string name="trust_feature_name">Trust</string>
-    <string name="permlab_trustInterface">доступ да інтэрфейсу Trust</string>
-    <string name="trust_notification_title_security">Trust \u2022 Бяспека сістэмы</string>
-    <string name="trust_notification_title_onboarding">Даследуйце Trust</string>
 </resources>

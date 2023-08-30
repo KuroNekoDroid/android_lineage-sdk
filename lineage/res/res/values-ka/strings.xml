@@ -73,16 +73,6 @@
     <string name="megabitspersecond_short">მბიტ/წმ</string>
     <string name="kilobytespersecond_short">კბაიტ/წმ</string>
     <string name="megabytespersecond_short">მბაიტ/წმ</string>
-    <string name="trust_feature_name">Trust</string>
-    <string name="permlab_trustInterface">Trust-გარსთან წვდომა</string>
-    <string name="permdesc_trustInterface">პროგრამისთვის ნების დართვა, რომ აჩვენოს Trust-ცნობები და შემოთავაზებები</string>
-    <string name="trust_notification_channel">Trust-ცნობები</string>
-    <string name="trust_notification_title_security">Trust \u2022 სისტემის დაცვა</string>
-    <string name="trust_notification_content_selinux">SELinux არაა იძულებით მითითებული, თქვენი უსაფრთხოება შესუსტებულია</string>
-    <string name="trust_notification_content_keys">ეს ანაწყობი ხელმოწერილია საჯარო გასაღებებით</string>
-    <string name="trust_notification_title_onboarding">უკეთ გაიცანით Trust</string>
-    <string name="trust_notification_content_onboarding">იხილეთ, თუ როგორ უნდა დარწმუნდეთ საკუთარი მოწყობილობის უსაფრთხოებაში</string>
-    <string name="trust_notification_action_manage">ცნობების მართვა</string>
     <string name="charging_control_notification_channel">დამუხტვის მართვა</string>
     <string name="charging_control_notification_title">დამუხტვის მართვა</string>
     <string name="charging_control_notification_cancel_once">გაუქმება</string>

@@ -65,17 +65,6 @@ public final class LineageContextConstants {
 
     /**
      * Use with {@link android.content.Context#getSystemService} to retrieve a
-     * {@link lineageos.trust.TrustInterface} to access the Trust interface.
-     *
-     * @see android.content.Context#getSystemService
-     * @see lineageos.trust.TrustInterface
-     *
-     * @hide
-     */
-    public static final String LINEAGE_TRUST_INTERFACE = "lineagetrust";
-
-    /**
-     * Use with {@link android.content.Context#getSystemService} to retrieve a
      * {@link lineageos.health.HealthInterface} to access the Health interface.
      *
      * @see android.content.Context#getSystemService

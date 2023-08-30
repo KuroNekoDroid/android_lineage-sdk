@@ -73,14 +73,4 @@
     <string name="megabitspersecond_short">Mb/sek</string>
     <string name="kilobytespersecond_short">kB/sek</string>
     <string name="megabytespersecond_short">MB/sek</string>
-    <string name="trust_feature_name">Traust</string>
-    <string name="permlab_trustInterface">aðgangur að Traust-viðmóti</string>
-    <string name="permdesc_trustInterface">Gerir forriti kleift að birta aðvaranir um traust og tillögur</string>
-    <string name="trust_notification_channel">Áminningar um traust</string>
-    <string name="trust_notification_title_security">Traust \u2022 Kerfisöryggi</string>
-    <string name="trust_notification_content_selinux">Ekki er þvingað fram SELinux öryggissamhengi, öryggið þitt er því veikara</string>
-    <string name="trust_notification_content_keys">Þessi byggingarútgáfa var undirrituð með dreifilyklum</string>
-    <string name="trust_notification_title_onboarding">Kynntu þér Traust</string>
-    <string name="trust_notification_content_onboarding">Lærðu hvernig þú átt að halda tækinu þínu öruggu</string>
-    <string name="trust_notification_action_manage">Sýsla með áminningar</string>
 </resources>
